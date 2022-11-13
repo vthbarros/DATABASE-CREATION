@@ -15,7 +15,7 @@ Este repositório se trata dos meus códigos em SQL, MySQL, para a criação de 
 - ...OR...;
 
 ## 👀 O que será visto:
-Códigos em SQL (MySQL), achou que ia ver o quê? Eu falei no começo 😅
+Códigos em SQL (MySQL)
 
 ## 👨🏻‍🏫 Fontes usadas para aprender
 Para realizar esse projeto usei os conceitos aprendidos na faculdade até o momento e o curso: [O curso completo de Banco de Dados e SQL, sem mistérios!](https://www.udemy.com/course/bancos-de-dados-relacionais-basico-avancado/)
