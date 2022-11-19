@@ -1,3 +1,4 @@
+![Banco de Dados de Livraria](https://github.com/vthbarros/DATABASE-CREATION/blob/main/Banco-de-Dados-Livraria.png)
 # BANCO DE DADOS DE LIVRARIA 📚
 
 ## 🎯 Objetivo:
